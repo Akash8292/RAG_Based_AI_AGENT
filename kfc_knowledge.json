@@ -1,0 +1,82 @@
+{
+  "menu_overview": {
+    "question": "show me the menu, what do you have, what can I order",
+    "answer": "Here's our KFC menu: Chicken Buckets (6pc $15.99, 9pc $22.99, 12pc $28.99, 16pc $35.99), Burgers (Zinger $5.99, Double Down $7.99, Tower $8.99), Wraps (Classic $4.99, Spicy $5.49, Grilled $5.99), Sides (Fries, Coleslaw, Mashed Potatoes), and Beverages. What interests you?"
+  },
+  "chicken_buckets": {
+    "question": "chicken buckets, bucket prices, how much is a bucket",
+    "answer": "Our chicken buckets: 6-piece for $15.99, 9-piece for $22.99 (most popular!), 12-piece for $28.99, and 16-piece Family Feast for $35.99. All include your choice of original or crispy chicken."
+  },
+  "six_piece": {
+    "question": "6 piece bucket, how much is 6 piece",
+    "answer": "The 6-piece bucket is $15.99. It serves 2-3 people and you can choose original or crispy chicken."
+  },
+  "nine_piece": {
+    "question": "9 piece bucket, how much is 9 piece",
+    "answer": "The 9-piece bucket is $22.99. This is our most popular size and serves 3-4 people!"
+  },
+  "twelve_piece": {
+    "question": "12 piece bucket, how much is 12 piece",
+    "answer": "The 12-piece bucket is $28.99. It serves 4-5 people. Would you like to add any sides?"
+  },
+  "family_feast": {
+    "question": "16 piece, family feast, biggest bucket",
+    "answer": "Our Family Feast is a 16-piece bucket for $35.99. It includes 4 large sides, 4 biscuits, and a 1.5L drink. Perfect for families of 5-6 people!"
+  },
+  "burgers": {
+    "question": "burgers, what burgers, burger menu",
+    "answer": "Our burgers: Zinger Burger $5.99 (crispy chicken, lettuce, mayo), Double Down $7.99 (no bun, double chicken!), Colonel's Burger $6.49, and Tower Burger $8.99 (our biggest with hash brown). All available as combos with fries and drink!"
+  },
+  "zinger": {
+    "question": "zinger burger, how much is zinger, zinger price",
+    "answer": "The Zinger Burger is $5.99 alone, or $8.99 as a combo with fries and drink. It has a crispy chicken fillet, fresh lettuce, and mayo on a toasted bun!"
+  },
+  "double_down": {
+    "question": "double down, what is double down",
+    "answer": "The Double Down replaces the bun with TWO chicken fillets! It has bacon, cheese, and sauce sandwiched between crispy chicken. It's $7.99 and very popular!"
+  },
+  "tower_burger": {
+    "question": "tower burger, biggest burger",
+    "answer": "The Tower Burger is our largest at $8.99! It has a chicken fillet, hash brown, cheese, bacon, and special sauce. Super filling!"
+  },
+  "wraps": {
+    "question": "wraps, what wraps, twister",
+    "answer": "We have three wraps: Classic Twister $4.99, Spicy Twister $5.49, and Grilled Twister $5.99. All include lettuce, tomato, and our special sauce!"
+  },
+  "sides": {
+    "question": "sides, what sides, side dishes",
+    "answer": "Our sides: Regular Fries $2.99, Large Fries $3.99, Coleslaw $2.49, Mashed Potatoes with gravy $2.99, Corn on the Cob $2.49, and Biscuits $1.99 each."
+  },
+  "fries": {
+    "question": "fries, french fries, how much are fries",
+    "answer": "Fries are Regular $2.99 or Large $3.99. Hot, crispy, and delicious!"
+  },
+  "beverages": {
+    "question": "drinks, beverages, what drinks",
+    "answer": "We have Pepsi, Diet Pepsi, Mountain Dew, Sierra Mist, and Lemonade. Small $1.99, Medium $2.49, Large $2.99. Bottled water is $1.49."
+  },
+  "combos": {
+    "question": "combos, combo meals, meal deals",
+    "answer": "Our combo meals: Zinger Combo (burger + fries + drink) $8.99, 3-Piece Chicken Combo $9.99, and Wrap Combo $7.99. All combos save you at least $2!"
+  },
+  "prices": {
+    "question": "prices, how much, cost, expensive, cheap",
+    "answer": "Prices range from $1.99 (biscuits, small drinks) to $35.99 (Family Feast). Chicken pieces start at $2.49, burgers from $5.99, wraps from $4.99, sides from $1.99."
+  },
+  "popular": {
+    "question": "most popular, best seller, favorite, recommend",
+    "answer": "Our most popular item is the 9-piece bucket at $22.99 - perfect for families! Second favorite is the Zinger Combo at $8.99. Can't go wrong with either!"
+  },
+  "deals": {
+    "question": "deals, specials, discounts, offers",
+    "answer": "Today's deals: Buy any bucket get 50% off large fries! Every Tuesday is $5 Zinger Burger day. Family Feast includes free 1.5L Pepsi!"
+  },
+  "vegetarian": {
+    "question": "vegetarian, veg options, no meat",
+    "answer": "Vegetarian options: Veggie Zinger Burger $5.49, Veggie Twister Wrap $4.99, plus all our sides (fries, coleslaw, corn, mashed potatoes) are vegetarian!"
+  },
+  "hours": {
+    "question": "hours, opening hours, when open, timing",
+    "answer": "We're open daily 10 AM to 11 PM. Drive-thru stays open until midnight on weekends. Delivery available through our app during operating hours!"
+  }
+}
