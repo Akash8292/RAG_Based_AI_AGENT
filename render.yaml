@@ -1,14 +1,10 @@
 services:
   - type: web
-    name: kfc-voice-assistant
+    name: RAG_Based_AI_AGENT-1
     env: python
-    region: oregon
     plan: free
+
+    pythonVersion: 3.11
+
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn render_app:app --bind 0.0.0.0:$PORT
-    envVars:
-      - key: PYTHON_VERSION
-        value: 3.11.0
-    # Native packages installation
-    buildPacks:
-      - url: https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
